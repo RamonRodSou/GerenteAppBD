@@ -1,38 +1,54 @@
 {
-  "Perfume": [
+  "Produtos": [
     {
       "id": 1,
       "name": "Perfume",
       "image": "https://cdn.discordapp.com/attachments/1078331260377776219/1200381697766735922/P1.webp?ex=65c5f992&is=65b38492&hm=59df37faaf4b0ba69d54cc5e86a173d33b87d73e1b881637ea745f042394938e&",
       "value": "100.90",
-      "qtd": 10
-    }
-  ],
-  "Creme": [
+      "qtd": 10,
+      "category": "Perfumes"
+    },
     {
-      "id": 1,
+      "id": 2,
       "name": "lily lumiere",
       "image": "https://cdn.discordapp.com/attachments/1078331260377776219/1200381697166934066/C1.webp?ex=65c5f992&is=65b38492&hm=5db09d8ce8609e1d4e80d06c1a06c5794a1e61318cef272d659c14ebd3d7dc3f&",
       "value": "35.90",
-      "qtd": 2
-    }
-  ],
-  "Maquiagem": [
+      "qtd": 2,
+      "category": "Creme"
+    },
     {
-      "id": 1,
+      "id": 3,
       "name": "Kit Maquiagem",
       "image": "https://th.bing.com/th/id/R.c64e42ff24fc6439aca50fa1cd38b298?rik=uyF7L68R%2f4qfmA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-HLMczoubFTM%2fUn-CK5uJiDI%2fAAAAAAAAGXg%2fA5HP5Lg9Ov8%2fs1600%2f20166-Make-B-Rio-Sixties-Palette-de-Maquiagem.jpg&ehk=tDBY%2fpHyLPVqlx9OESyUShcZXyBA64ps%2btJ1MrrPNeY%3d&risl=&pid=ImgRaw&r=0",
       "value": "49.90",
-      "qtd": 4
-    }
-  ],
-  "Outros": [
+      "qtd": 4,
+      "category": "Maquiagem"
+    },
     {
-      "id": 1,
+      "id": 4,
       "name": "Shampoo",
       "image": "https://th.bing.com/th/id/R.075319e5af0fe600caf775c40bdf8fc7?rik=z4e8JjySjKlV2Q&pid=ImgRaw&r=0",
       "value": "15.90",
-      "qtd": 2
+      "qtd": 2,
+      "category": "Outros"
+    }
+  ],
+  "categoria": [
+    {
+      "categoriaName": "Desenho",
+      "id": 1
+    },
+    {
+      "categoriaName": "Perfumes",
+      "id": 2
+    },
+    {
+      "categoriaName": "Maquiagem",
+      "id": 3
+    },
+    {
+      "categoriaName": "Outros",
+      "id": 4
     }
   ]
 }
