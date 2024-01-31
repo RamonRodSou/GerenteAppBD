@@ -38,6 +38,70 @@
       "image": "https://http2.mlstatic.com/D_NQ_NP_672726-MLB73547162597_122023-O.webp",
       "qtd": 20,
       "category": "Hidratante"
+    },
+    {
+      "name": "Azar",
+      "image": "https://cdn.discordapp.com/attachments/1078331260377776219/1200381697766735922/P1.webp?ex=65c5f992&is=65b38492&hm=59df37faaf4b0ba69d54cc5e86a173d33b87d73e1b881637ea745f042394938e&",
+      "value": "230.90",
+      "qtd": 10,
+      "category": "Perfumes",
+      "id": 6
+    },
+    {
+      "name": "LuckGem",
+      "image": "https://cdn.discordapp.com/attachments/1078331260377776219/1200381697766735922/P1.webp?ex=65c5f992&is=65b38492&hm=59df37faaf4b0ba69d54cc5e86a173d33b87d73e1b881637ea745f042394938e&",
+      "value": "230.90",
+      "qtd": 10,
+      "category": "Perfumes",
+      "id": 7
+    },
+    {
+      "name": "Facial",
+      "image": "https://zonasul.vtexassets.com/arquivos/ids/3090142-800-auto?v=638126862861670000&width=800&height=auto&aspect=true",
+      "value": "30.90",
+      "qtd": 10,
+      "category": "Hidratante",
+      "id": 8
+    },
+    {
+      "name": "Neutrogena",
+      "image": "https://cdn.shopify.com/s/files/1/0086/1106/9999/products/hidratante-facial-hydro-boost-neutrogena-511642_1024x1024.jpg?v=1595090279",
+      "value": "40.90",
+      "qtd": 10,
+      "category": "Hidratante",
+      "id": 9
+    },
+    {
+      "name": "212 Men",
+      "image": "https://fimgs.net/images/secundar/o.34632.jpg",
+      "value": "730.90",
+      "qtd": 10,
+      "category": "Perfume",
+      "id": 10
+    },
+    {
+      "name": "212 Sexy",
+      "image": "https://www.therange.co.uk/_m4/9/3/1583764612_9829.jpg",
+      "value": "930.90",
+      "qtd": 10,
+      "category": "Perfume",
+      "id": 11
+    },
+    {
+      "name": "Color make",
+      "image": "https://a-static.mlcdn.com.br/800x560/maquiagem-liq-neon-15ml-pink-colormake/melhormercado/201p/3636493310bf85cf711dfd6d62aff1c8.jpeg",
+      "value": "120.90",
+      "qtd": 20,
+      "category": "Maquiagem",
+      "id": 12
+    },
+    {
+      "name": "Makie",
+      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/460341/fixador-de-maquiagem-makie-fix-pro-power-bronze.jpg?v=637710378467500000",
+      "value": "120.90",
+      "qtd": 20,
+      "category": "Maquiagem",
+      "id": 13
     }
   ],
   "Category": [
