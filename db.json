@@ -14,7 +14,7 @@
       "image": "https://cdn.discordapp.com/attachments/1078331260377776219/1200381697166934066/C1.webp?ex=65c5f992&is=65b38492&hm=5db09d8ce8609e1d4e80d06c1a06c5794a1e61318cef272d659c14ebd3d7dc3f&",
       "value": "35.90",
       "qtd": 2,
-      "category": "Creme"
+      "category": "Hidratante"
     },
     {
       "id": 3,
@@ -37,24 +37,24 @@
       "name": "Hidratante",
       "image": "https://http2.mlstatic.com/D_NQ_NP_672726-MLB73547162597_122023-O.webp",
       "qtd": 20,
-      "category": "Creme"
+      "category": "Hidratante"
     }
   ],
-  "categoria": [
+  "Category": [
     {
-      "categoriaName": "Perfumes",
+      "nameCategory": "Perfumes",
       "id": 1
     },
     {
-      "categoriaName": "Creme",
+      "nameCategory": "Hidratante",
       "id": 2
     },
     {
-      "categoriaName": "Maquiagem",
+      "nameCategory": "Maquiagem",
       "id": 3
     },
     {
-      "categoriaName": "Outros",
+      "nameCategory": "Outros",
       "id": 4
     }
   ]
