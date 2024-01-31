@@ -40,17 +40,17 @@
       "category": "Hidratante"
     },
     {
-      "name": "Azar",
-      "image": "https://cdn.discordapp.com/attachments/1078331260377776219/1200381697766735922/P1.webp?ex=65c5f992&is=65b38492&hm=59df37faaf4b0ba69d54cc5e86a173d33b87d73e1b881637ea745f042394938e&",
-      "value": "230.90",
+      "name": "Kaiak",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_859621-MLB73528045929_122023-O.webp",
+      "value": "70.90",
       "qtd": 10,
       "category": "Perfumes",
       "id": 6
     },
     {
-      "name": "LuckGem",
-      "image": "https://cdn.discordapp.com/attachments/1078331260377776219/1200381697766735922/P1.webp?ex=65c5f992&is=65b38492&hm=59df37faaf4b0ba69d54cc5e86a173d33b87d73e1b881637ea745f042394938e&",
-      "value": "230.90",
+      "name": "Kaiak Feminino",
+      "image": "https://a-static.mlcdn.com.br/800x560/perfume-kaiak-feminino-100-ml/rosemariacosmeticos/04bea30832ba11ee85df4201ac18502e/bf16510b5fe6970aa23326a77ec602b6.jpeg",
+      "value": "130.90",
       "qtd": 10,
       "category": "Perfumes",
       "id": 7
@@ -76,7 +76,7 @@
       "image": "https://fimgs.net/images/secundar/o.34632.jpg",
       "value": "730.90",
       "qtd": 10,
-      "category": "Perfume",
+      "category": "Perfumes",
       "id": 10
     },
     {
@@ -84,7 +84,7 @@
       "image": "https://www.therange.co.uk/_m4/9/3/1583764612_9829.jpg",
       "value": "930.90",
       "qtd": 10,
-      "category": "Perfume",
+      "category": "Perfumes",
       "id": 11
     },
     {
