@@ -102,6 +102,14 @@
       "qtd": 20,
       "category": "Maquiagem",
       "id": 13
+    },
+    {
+      "name": "Vivara",
+      "image": "https://lojavivara.vtexassets.com/arquivos/ids/230058/Perfume-Masculino-V-Eau-de-Parfum-100ml-m3160003_set.jpg?v=637867930696330000",
+      "value": "520.90",
+      "qtd": 2,
+      "category": "Perfumes",
+      "id": 14
     }
   ],
   "Category": [
