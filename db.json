@@ -1,133 +1,44 @@
 {
-  "product": [
+
+  "profissional": [
     {
-      "id": 1,
-      "name": "Perfume",
-      "image": "https://cdn.discordapp.com/attachments/1078331260377776219/1200381697766735922/P1.webp?ex=65c5f992&is=65b38492&hm=59df37faaf4b0ba69d54cc5e86a173d33b87d73e1b881637ea745f042394938e&",
-      "value": "100.90",
-      "qtd": 10,
-      "category": "Perfumes"
-    },
-    {
-      "id": 2,
-      "name": "lily lumiere",
-      "image": "https://cdn.discordapp.com/attachments/1078331260377776219/1200381697166934066/C1.webp?ex=65c5f992&is=65b38492&hm=5db09d8ce8609e1d4e80d06c1a06c5794a1e61318cef272d659c14ebd3d7dc3f&",
-      "value": "35.90",
-      "qtd": 2,
-      "category": "Hidratante"
-    },
-    {
-      "id": 3,
-      "name": "Kit Maquiagem",
-      "image": "https://th.bing.com/th/id/R.c64e42ff24fc6439aca50fa1cd38b298?rik=uyF7L68R%2f4qfmA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-HLMczoubFTM%2fUn-CK5uJiDI%2fAAAAAAAAGXg%2fA5HP5Lg9Ov8%2fs1600%2f20166-Make-B-Rio-Sixties-Palette-de-Maquiagem.jpg&ehk=tDBY%2fpHyLPVqlx9OESyUShcZXyBA64ps%2btJ1MrrPNeY%3d&risl=&pid=ImgRaw&r=0",
-      "value": "49.90",
-      "qtd": 4,
-      "category": "Maquiagem"
-    },
-    {
-      "id": 4,
-      "name": "Shampoo",
-      "image": "https://th.bing.com/th/id/R.075319e5af0fe600caf775c40bdf8fc7?rik=z4e8JjySjKlV2Q&pid=ImgRaw&r=0",
-      "value": "15.90",
-      "qtd": 2,
-      "category": "Outros"
-    },
-    {
-      "id": 5,
-      "name": "Hidratante",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_672726-MLB73547162597_122023-O.webp",
-      "qtd": 20,
-      "category": "Hidratante"
-    },
-    {
-      "name": "Kaiak",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_859621-MLB73528045929_122023-O.webp",
-      "value": "70.90",
-      "qtd": 10,
-      "category": "Perfumes",
-      "id": 6
-    },
-    {
-      "name": "Kaiak Feminino",
-      "image": "https://a-static.mlcdn.com.br/800x560/perfume-kaiak-feminino-100-ml/rosemariacosmeticos/04bea30832ba11ee85df4201ac18502e/bf16510b5fe6970aa23326a77ec602b6.jpeg",
-      "value": "130.90",
-      "qtd": 10,
-      "category": "Perfumes",
-      "id": 7
-    },
-    {
-      "name": "Facial",
-      "image": "https://zonasul.vtexassets.com/arquivos/ids/3090142-800-auto?v=638126862861670000&width=800&height=auto&aspect=true",
-      "value": "30.90",
-      "qtd": 10,
-      "category": "Hidratante",
-      "id": 8
-    },
-    {
-      "name": "Neutrogena",
-      "image": "https://cdn.shopify.com/s/files/1/0086/1106/9999/products/hidratante-facial-hydro-boost-neutrogena-511642_1024x1024.jpg?v=1595090279",
-      "value": "40.90",
-      "qtd": 10,
-      "category": "Hidratante",
-      "id": 9
-    },
-    {
-      "name": "212 Men",
-      "image": "https://fimgs.net/images/secundar/o.34632.jpg",
-      "value": "730.90",
-      "qtd": 10,
-      "category": "Perfumes",
-      "id": 10
-    },
-    {
-      "name": "212 Sexy",
-      "image": "https://www.therange.co.uk/_m4/9/3/1583764612_9829.jpg",
-      "value": "930.90",
-      "qtd": 10,
-      "category": "Perfumes",
-      "id": 11
-    },
-    {
-      "name": "Color make",
-      "image": "https://a-static.mlcdn.com.br/800x560/maquiagem-liq-neon-15ml-pink-colormake/melhormercado/201p/3636493310bf85cf711dfd6d62aff1c8.jpeg",
-      "value": "120.90",
-      "qtd": 20,
-      "category": "Maquiagem",
-      "id": 12
-    },
-    {
-      "name": "Makie",
-      "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/460341/fixador-de-maquiagem-makie-fix-pro-power-bronze.jpg?v=637710378467500000",
-      "value": "120.90",
-      "qtd": 20,
-      "category": "Maquiagem",
-      "id": 13
-    },
-    {
-      "name": "Vivara",
-      "image": "https://lojavivara.vtexassets.com/arquivos/ids/230058/Perfume-Masculino-V-Eau-de-Parfum-100ml-m3160003_set.jpg?v=637867930696330000",
-      "value": "520.90",
-      "qtd": 2,
-      "category": "Perfumes",
-      "id": 14
-    }
-  ],
-  "Category": [
-    {
-      "nameCategory": "Perfumes",
+      "nome": "Profissiona1",
+      "sobrenome": "Barbeiro",
+      "profissional": "Mestre dos Cortes",
+      "telefone": "21987654321",
       "id": 1
     },
     {
-      "nameCategory": "Hidratante",
+      "nome": "Profissiona2",
+      "sobrenome": "Barbeiro",
+      "profissional": "Cortes na Regua",
+      "telefone": "21900000000",
       "id": 2
+    }
+  ],
+
+  "cliente": [
+    {
+      "nome": "Cliente1",
+      "sobrenome": "Cliente",
+      "telefone": "+5521900000000",
+      "corte": true,
+      "barba": "",
+      "desenhar": "",
+      "data": "2023-10-27",
+      "hora": "10:20",
+      "id": 1
     },
     {
-      "nameCategory": "Maquiagem",
-      "id": 3
-    },
-    {
-      "nameCategory": "Outros",
-      "id": 4
+      "nome": "Cliente2",
+      "sobrenome": "Cliente",
+      "telefone": "+5521900000000",
+      "cabelo": true,
+      "barba": true,
+      "desenhar": "",
+      "data": "2121-02-22",
+      "hora": "22:22",
+      "id": 2
     }
   ]
 }
